@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  background-color: aqua;
+}
+
+/* .todolist {
+}
+
+.resttask {
+} */
+
+
+/* .checkbox {
+  text-align: center;
+  margin: 0;
+  padding: 5px 0 0 0;
+  height: 0%;
+} */
+
+.body {
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+}
