@@ -4,29 +4,27 @@
 }
 
 .button {
-  background-color: aqua;
+  background-color: #00bfff;
+}
+.todoCheck{
+  margin-bottom: 50px;
 }
 
-/* .todolist {
+.body {
+  height: 100vh;
+  background-color: #ffd700;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
 }
 
 .resttask {
-} */
-
-
-/* .checkbox {
   text-align: center;
-  margin: 0;
-  padding: 5px 0 0 0;
-  height: 0%;
-} */
+  margin-top: 20px;
+}
 
-.body {
-    height: 100vh;
+.task {
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  
 }
