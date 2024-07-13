@@ -26,5 +26,9 @@
 }
 
 .task {
+  display: flex;
+}
 
+.todolist {
+  font-size: 50px;
 }
